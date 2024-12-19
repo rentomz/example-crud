@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/your-username/my-crud-api/config"
-	"github.com/your-username/my-crud-api/models"
+	"github.com/rentomz/example-crud/config"
+	"github.com/rentomz/example-crud/models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
