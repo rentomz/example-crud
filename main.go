@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/your-username/my-crud-api/handlers"
+	"github.com/rentomz/example-crud/handlers"
 )
 
 func main() {
